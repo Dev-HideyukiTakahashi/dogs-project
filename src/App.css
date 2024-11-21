@@ -38,6 +38,10 @@ input {
   color: #333;
 }
 
+a {
+  text-decoration: none;
+}
+
 .container {
   max-width: 50rem;
   padding: 0 1rem;
